@@ -3,7 +3,7 @@
 Small class used to provide time with "with" statement.
 
 ---
-###Usage
+### Usage
 
 ```python
 var = Chronos()
