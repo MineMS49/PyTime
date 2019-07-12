@@ -9,5 +9,5 @@ setuptools.setup(
     packages=[],
     setup_requires='setupmeta',
     url='https://github.com/MineMS49/PyTime',
-    version='0.1'
+    version='0.2'
 )
