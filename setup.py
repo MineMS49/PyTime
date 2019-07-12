@@ -6,7 +6,7 @@ import setuptools
 setuptools.setup(
     author='MineMS',
     name='PyTime',
-    packages=['c14'],
+    packages=['PyTime'],
     setup_requires='setupmeta',
     url='https://github.com/MineMS49/PyTime',
     version='0.1'
